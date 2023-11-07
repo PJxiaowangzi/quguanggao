@@ -1,6 +1,6 @@
 #!name=BiLi超级净化
 #!desc=PJ-xiaowangzi 哔哩哔哩去广告、移除底部动态和会员购板块、强制后台↑画中画播放等.其余功能自行研究。
-#!author=↑.如遇到收费请添加箭头所指.
+#!author=.↑.如遇到收费请添加箭头所指.
 
 [MITM]
 hostname = %APPEND% app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, grpc.biliapi.net,api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net
