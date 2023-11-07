@@ -1,11 +1,3 @@
-/*
-应用名称：自用B站去广告脚本
-脚本作者：Cuttlefish
-微信账号：公众号墨鱼手记
-更新时间：2022-10-11
-脚本版本：(69)
-通知频道：https://t.me/ddgksf2021
-问题反馈：ddgksf2013@163.com
 */
 const scriptName = "BiliBili";
 const storyAidKey = "bilibili_story_aid";
